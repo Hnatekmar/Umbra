@@ -1,0 +1,4 @@
+module Umbra
+plugin umbraplugin
+classname QUmbra
+typeinfo umbra.qmltypes
